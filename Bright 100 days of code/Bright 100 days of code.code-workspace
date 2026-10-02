@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "Bright 100 days of code",
+			"path": "."
+		},
+		{
+			"name": "images_quizzer",
+			"path": "../../Videos/32 - Day 32 - Intermediate+ Send Email (smtplib) & Manage Dates (datetime)-20260810T152644Z-1-001/32 - Day 32 - Intermediate+ Send Email (smtplib) & Manage Dates (datetime)/007 Solution-birthday-wisher-end/images_quizzer"
+		},
+		{
+			"name": "images",
+			"path": "../001 flash-card-project-start/images"
+		},
+		{
+			"name": "data",
+			"path": "../001 flash-card-project-start/data"
+		}
+	],
+	"settings": {
+		"python-envs.defaultEnvManager": "ms-python.python:system",
+		"liveServer.settings.multiRootWorkspaceName": "Bright 100 days of code"
+	}
+}
